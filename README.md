@@ -33,7 +33,7 @@
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/google-scholar.png" alt="scholar"/>
   </a> -->
 
-  <a href= "https://github.com/zeidk/resume/blob/main/resume.pdf">
+  <a href= "https://github.com/nvnanil/nvnanil/profile/Resume_Naveen.pdf">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/>
   </a>
 	
