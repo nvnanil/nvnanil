@@ -53,13 +53,14 @@
   </a>
 </p>
 
+### ⚡ GitHub Activity
 <p align="center">
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="Wakatime" style="width:70%">
 </p>
 
 
-### ⚡ Social
-
+<!-- ### ⚡ Social -->
+<h4 align="center">Check out for more</h4>
 <p align="center">
   <a href= "https://github.com/nvnanil/">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
