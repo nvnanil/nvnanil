@@ -4,40 +4,22 @@
 
 <h3 align="center">Robotics Graduate Student at the University of Maryland</h3>
 
+### ⚡ What I'm up to
+- 🔨 I'm currently...
+	- Looking for full-time job opportunities to collaborate
+	- Honing my skiills in Aerial Robotics
+ 	- Doing independent study with Prof. Zeid Kootbally 
+<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
+- 🎯 In the near future, I plan to
+	- Contribute to cutting edge developments in the field of Robotics
+	- Write algorithms for autonomous systems and humanoid robots
+	- Collaborate with researchers, engineers, and enthusiasts in the robotics community
+	- Contribute to open-source robotics projects to help the community
+
+
 <!-- <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=zeidk&style=plastic&color=lightgrey&label=Visitors" alt="js" />
 </p> -->
-
-
-<p align="center">
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="Wakatime" style="width:70%">
-</p>
-
-
-### ⚡ Social
-
-<p align="center">
-  <a href= "https://github.com/nvnanil/">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
-  </a>
-  <a href= "https://www.linkedin.com/in/naveen-anil/">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="linkedin-circled"/>
-  </a>
-
-  <a href= "https://www.youtube.com/channel/UCi0O98Lu_XV7iStN7ObawDw">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/youtube.png" alt="youtube"/>
-  </a>
-	
-<!-- <a href= "https://scholar.google.com/citations?user=zntPecQAAAAJ&hl=en">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/google-scholar.png" alt="scholar"/>
-  </a> -->
-
-  <a href= "https://github.com/nvnanil/nvnanil/blob/experiment/profile/Resume_Naveen.pdf">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/>
-  </a>
-	
-
-</p>
 
 ### ⚡ Tech
 
@@ -71,16 +53,32 @@
   </a>
 </p>
 
+<p align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Wakatime" style="width:70%">
+</p>
 
-### ⚡ What I'm up to
 
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-	- Looking for full-time job opportunities to collaborate
-	- Honing my skiills in Aerial Robotics
- 	- Doing independent study with Prof. Zeid Kootbally 
-<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- Contribute to cutting edge developments in the field of Robotics
-	- Write algorithms for autonomous systems and humanoid robots
-	- Collaborate with researchers, engineers, and enthusiasts in the robotics community
-	- Contribute to open-source robotics projects to help the community
+### ⚡ Social
+
+<p align="center">
+  <a href= "https://github.com/nvnanil/">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/naveen-anil/">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="linkedin-circled"/>
+  </a>
+
+  <a href= "https://www.youtube.com/channel/UCi0O98Lu_XV7iStN7ObawDw">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/youtube.png" alt="youtube"/>
+  </a>
+	
+<!-- <a href= "https://scholar.google.com/citations?user=zntPecQAAAAJ&hl=en">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/google-scholar.png" alt="scholar"/>
+  </a> -->
+
+  <a href= "https://github.com/nvnanil/nvnanil/blob/experiment/profile/Resume_Naveen.pdf">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/>
+  </a>
+	
+
+</p>
