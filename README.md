@@ -51,9 +51,9 @@
     <img height="30" alt="Python" src="https://img.shields.io/badge/-Python-ffcd3a?style=plastic&logo=python"/>
   </a>
 
-  <a href= "https://www.latex-project.org/">
-    <img height="30" alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=plastic&logo=latex"/>
-  </a>
+  <!-- <a href= "https://www.latex-project.org/">
+    <img height="30" alt="LaTeX" src="https://img.shields.io/badge/-Fusion360-008080?style=plastic&logo=fusion360"/>
+  </a> -->
 <!--   <img height="30" alt="Git" src="https://img.shields.io/badge/-Git-1a77ae?style=plastic&logo=git"/> -->
 <!--   <img height="30" alt="GitHub" src="https://img.shields.io/badge/-Github-8a1aae?style=plastic&logo=github"/> -->
 <a href= "https://www.docker.com/">
