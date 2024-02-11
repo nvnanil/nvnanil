@@ -53,6 +53,10 @@
   </a>
 </p>
 
+### ⚡ Project Highlights
+
+![](images/projects-collage.jpg)
+
 ### ⚡ GitHub Activity
 <p align="center">
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="Wakatime" style="width:70%">
