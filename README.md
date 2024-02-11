@@ -3,7 +3,7 @@
 
 
 
-<h5 align="center">Robotics Graduate Student at the University of Maryland</h5>
+<h3 align="center">Robotics Graduate Student at the University of Maryland</h3>
 
 <!-- <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=zeidk&style=plastic&color=lightgrey&label=Visitors" alt="js" />
