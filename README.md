@@ -1,45 +1,37 @@
 
-
-[![GitHub-Profile-3D-Contrib](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/profile-3d.yml)
-[![Recent activity](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/metrics.yml)
-[![Indepth analysis](https://github.com/zeidk/zeidk/actions/workflows/analysis.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/analysis.yml)
-[![Waka Readme](https://github.com/zeidk/zeidk/actions/workflows/wakatime.yml/badge.svg)](https://github.com/zeidk/zeidk/actions/workflows/wakatime.yml)
+<h1 align="center">Naveen Anil</h1>
 
 
 
-<h1 align="center">Zeid Kootbally</h1>
+<h5 align="center">Robotics Graduate Student at the University of Maryland</h5>
 
-
-
-<h5 align="center">Computer Scientist at the National Institute of Standards and Technology (NIST)</h5>
-
-<p align="center">
+<!-- <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=zeidk&style=plastic&color=lightgrey&label=Visitors" alt="js" />
-</p>
+</p> -->
 
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="Wakatime" style="width:70%">
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Wakatime" style="width:70%">
 </p>
 
 
 ### ⚡ Social
 
 <p align="center">
-  <a href= "https://github.com/zeidk/">
+  <a href= "https://github.com/nvnanil/">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
   </a>
-  <a href= "https://www.linkedin.com/in/zeidkootbally/">
+  <a href= "https://www.linkedin.com/in/naveen-anil/">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="linkedin-circled"/>
   </a>
 
-  <a href= "https://www.nist.gov/people/zeid-kootbally">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/domain.png" alt="domain"/>
+  <a href= "https://www.youtube.com/channel/UCi0O98Lu_XV7iStN7ObawDw">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/youtube.png" alt="youtube"/>
   </a>
 	
-<a href= "https://scholar.google.com/citations?user=zntPecQAAAAJ&hl=en">
+<!-- <a href= "https://scholar.google.com/citations?user=zntPecQAAAAJ&hl=en">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/google-scholar.png" alt="scholar"/>
-  </a>
+  </a> -->
 
   <a href= "https://github.com/zeidk/resume/blob/main/resume.pdf">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/>
