@@ -1,4 +1,3 @@
-
 <h1 align="center">Naveen Anil</h1>
 
 
@@ -73,66 +72,15 @@
 </p>
 
 
+### ⚡ What I'm up to
 
-### ⚡ Past Week
-
-<!-- <p align="center">
-<img src="/metrics.plugin.languages.indepth.svg" alt="Analysis" style="width:70%">
-</p> -->
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 13 hrs 10 mins
-
-Python       8 hrs 40 mins   ████████████████▒░░░░░░░░   65.62 %
-C++          2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-CMake        1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-XML          28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
-<p align="center">
-<img src="/metrics.plugin.activity.svg" alt="Activity" style="width:50%">
-</p>
-
-<!-- ### ⚡ All Time Stats
-
-<p align="center">
-<img src="/github-metrics.svg" alt="Wakatime" style="width:60%">
-</p> -->
-
-
-
-
-<!-- <p align="center">
-	<a href= "./profile-3d-contrib/profile-south-season-animate.svg">
-<img align="center" src="/metrics.plugin.wakatime.svg" alt="Wakatime" width="300">
-		</a>
-<a href= "./profile-3d-contrib/profile-south-season-animate.svg">
-    <img src="./profile-3d-contrib/profile-south-season-animate.svg" width="300"/>
-  </a>
-	</p> -->
-<!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
-
-
-
-
-<!-- <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zeidk&layout=compact&langs_count=10&rank_icon=github&count_private=true&ring_color=eb3467&show_icons=true&include_all_commits=true&theme=transparent&title_color=eb3467" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidk&title_color=eb3467&theme=transparent&langs_count=7&layout=compact" />
-</a>
-</p> -->
-
-
-
-
-
-
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+	- Looking for full-time job opportunities to collaborate
+	- Honing my skiills in Aerial Robotics
+ 	- Doing independent study with Prof. Zeid Kootbally 
+<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
+- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+	- Contribute to cutting edge developments in the field of Robotics
+	- Write algorithms for autonomous systems and humanoid robots
+	- Collaborate with researchers, engineers, and enthusiasts in the robotics community
+	- Contribute to open-source robotics projects to help the community
