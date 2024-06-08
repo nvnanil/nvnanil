@@ -7,7 +7,6 @@
 ### ⚡ What I'm up to
 - 🔨 I'm currently...
 	- Looking for full-time job opportunities to collaborate
-	- Honing my skiills in Aerial Robotics
  	- Doing independent study with Prof. Zeid Kootbally 
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 - 🎯 In the near future, I plan to
