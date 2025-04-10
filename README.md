@@ -2,12 +2,12 @@
 
 
 
-<h3 align="center">Robotics Graduate Student at the University of Maryland</h3>
+<h3 align="center">Robotics Engineer at Applied Impact Robotics</h3>
 
 ### ⚡ What I'm up to
 - 🔨 I'm currently...
 	- Looking for full-time job opportunities to collaborate
- 	- Doing independent study with Prof. Zeid Kootbally 
+ 	- Building and deploying robots
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 - 🎯 In the near future, I plan to
 	- Contribute to cutting edge developments in the field of Robotics
