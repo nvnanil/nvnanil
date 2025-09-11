@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Robotics Engineer at Applied Impact Robotics</h3>
+<h3 align="center">Robotics Engineer</h3>
 
 ### ⚡ What I'm up to
 - 🔨 I'm currently...
